@@ -1,4 +1,4 @@
 package package1m2
 
-func myFunc2() {
+func MyFunc2() {
 }
